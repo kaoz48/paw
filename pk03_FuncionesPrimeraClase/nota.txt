@@ -1,0 +1,4 @@
+javascript es un lenguaje de funciones de primera clase
+-------------------------------------------------------
+de primera clase significa que las funciones son tupos de datos nativos.
+es decir se pueden almacenar directamente en una variable
